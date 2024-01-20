@@ -1,0 +1,10 @@
+2024-01-20 18:02:09 +0800   48552 execution.flow     INFO     Start executing nodes in thread pool mode.
+2024-01-20 18:02:09 +0800   48552 execution.flow     INFO     Start to run 4 nodes with concurrency level 16.
+2024-01-20 18:02:09 +0800   48552 execution.flow     INFO     Executing node Summary. node run id: bf083c1e-4b3e-4b43-a7c4-efdc2c7a58bf_Summary_0
+2024-01-20 18:02:11 +0800   48552 execution.flow     INFO     Node Summary completes.
+2024-01-20 18:02:11 +0800   48552 execution.flow     INFO     Executing node Embedding_inputs. node run id: bf083c1e-4b3e-4b43-a7c4-efdc2c7a58bf_Embedding_inputs_0
+2024-01-20 18:02:12 +0800   48552 execution.flow     INFO     Node Embedding_inputs completes.
+2024-01-20 18:02:12 +0800   48552 execution.flow     INFO     Executing node seach_from_ai_search. node run id: bf083c1e-4b3e-4b43-a7c4-efdc2c7a58bf_seach_from_ai_search_0
+2024-01-20 18:02:16 +0800   48552 execution.flow     INFO     Node seach_from_ai_search completes.
+2024-01-20 18:02:16 +0800   48552 execution.flow     INFO     Executing node chat. node run id: bf083c1e-4b3e-4b43-a7c4-efdc2c7a58bf_chat_0
+2024-01-20 18:02:25 +0800   48552 execution.flow     INFO     Node chat completes.
